@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+
+ul {
+	list-style-type:none;
+	display:flex;
+	
+}
+li {
+	padding:20px;
+	text-decoration:none;
+}
